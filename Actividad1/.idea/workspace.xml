@@ -36,6 +36,20 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Actividad1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -58,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585845219459</updated>
-      <workItem from="1585845234809" duration="1578000" />
+      <workItem from="1585845234809" duration="4081000" />
     </task>
     <servers />
   </component>
@@ -74,25 +88,25 @@
       <screen x="0" y="0" width="1600" height="868" />
     </state>
     <state x="579" y="188" key="FileChooserDialogImpl/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585845330846" />
-    <state width="1555" height="224" key="GridCell.Tab.0.bottom" timestamp="1585846446549">
+    <state width="1555" height="224" key="GridCell.Tab.0.bottom" timestamp="1585849257514">
       <screen x="0" y="0" width="1600" height="868" />
     </state>
-    <state width="1555" height="224" key="GridCell.Tab.0.bottom/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585846446549" />
-    <state width="1555" height="224" key="GridCell.Tab.0.center" timestamp="1585846446549">
+    <state width="1555" height="224" key="GridCell.Tab.0.bottom/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585849257514" />
+    <state width="1555" height="224" key="GridCell.Tab.0.center" timestamp="1585849257513">
       <screen x="0" y="0" width="1600" height="868" />
     </state>
-    <state width="1555" height="224" key="GridCell.Tab.0.center/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585846446549" />
-    <state width="1555" height="224" key="GridCell.Tab.0.left" timestamp="1585846446549">
+    <state width="1555" height="224" key="GridCell.Tab.0.center/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585849257513" />
+    <state width="1555" height="224" key="GridCell.Tab.0.left" timestamp="1585849257513">
       <screen x="0" y="0" width="1600" height="868" />
     </state>
-    <state width="1555" height="224" key="GridCell.Tab.0.left/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585846446549" />
-    <state width="1555" height="224" key="GridCell.Tab.0.right" timestamp="1585846446549">
+    <state width="1555" height="224" key="GridCell.Tab.0.left/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585849257513" />
+    <state width="1555" height="224" key="GridCell.Tab.0.right" timestamp="1585849257513">
       <screen x="0" y="0" width="1600" height="868" />
     </state>
-    <state width="1555" height="224" key="GridCell.Tab.0.right/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585846446549" />
-    <state x="279" y="8" key="SettingsEditor" timestamp="1585846475845">
+    <state width="1555" height="224" key="GridCell.Tab.0.right/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585849257513" />
+    <state x="279" y="8" key="SettingsEditor" timestamp="1585849300908">
       <screen x="0" y="0" width="1600" height="868" />
     </state>
-    <state x="279" y="8" key="SettingsEditor/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585846475845" />
+    <state x="279" y="8" key="SettingsEditor/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585849300908" />
   </component>
 </project>
