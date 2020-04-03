@@ -6,17 +6,26 @@
 
     <groupId>com.politecnicomalaga</groupId>
     <artifactId>Actividad1</artifactId>
-    <version>2.2-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
-    
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
 
     <dependencies>
-
+        <dependency>
+            <groupId>com.github.AlePj</groupId>
+            <artifactId>maven_repositorios</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
         <dependency>
             <groupId>mysql</groupId>
